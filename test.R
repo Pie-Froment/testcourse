@@ -6,3 +6,6 @@
 
 hel = "Hello World"
 
+# taking notes for the git course
+
+
