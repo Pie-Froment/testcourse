@@ -10,3 +10,5 @@ hel = "Hello World"
 
 # way of describing commits:
 # nouns, or use verbs instead with the name and what I did. 
+
+# Organise working session according to commits. 
